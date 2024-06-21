@@ -1,0 +1,1112 @@
+Speech,Type,Unit
+Glory to the Daelaam.,Trained,Adept
+ The Firstborn shall persevere.,Trained,Adept
+Give us your command.,Selected,Adept
+Let your will be heard.,Selected,Adept
+Aiur shall be reclaimed.,Selected,Adept
+"Yes, Executor?",Selected,Adept
+Where shall we march?,Selected,Adept
+Combat awaits.,Selected,Adept
+We serve with pride.,Selected,Adept
+Na ja'kar meena.,Selected,Adept
+Glorious combat is upon us!,Engaged In Battle,Adept
+Faith before fear.,Moved,Adept
+It shall be done.,Moved,Adept
+We are of one mind.,Moved,Adept
+The Templar march.,Moved,Adept
+Let none deter us.,Moved,Adept
+To glory.,Moved,Adept
+Por zalah.,Moved,Adept
+Forward.,Moved,Adept
+I am the will of the Hierarch.,Attack,Adept
+May your death be swift.,Attack,Adept
+To glorious battle.,Attack,Adept
+Spare none who oppose us.,Attack,Adept
+Victory for the Firstborn!,Attack,Adept
+For Selendis!,Attack,Adept
+Glaive cannon armed.,Attack,Adept
+Eradication.,Attack,Adept
+We are the stewards of the hierarchy.,Repeat,Adept
+Aiur will be reclaimed at any cost.,Repeat,Adept
+"Some Templar identify as a shield. Stalwart and unbreakable, defenders of truth.",Repeat,Adept
+Others see themselves as a weapon. Powerful and precise.,Repeat,Adept
+"I say, why not be both?",Repeat,Adept
+"With the right training, anyone can be in two places at once. But their mind must be fully open. Oh, and they need a psionic amplifier. That helps too.",Repeat,Adept
+"Chasing after your own shade is a pointless endeavor. I mean, it moves so quickly.",Repeat,Adept
+"Why yes, you could say I have... some skill. (chuckles)",Repeat,Adept
+What? Just because I'm called an adept doesn't mean I need to brag about it.,Repeat,Adept
+I'm here. (shade sound) I'm there. (shade sound) I'm...still here. At least for a few more seconds.,Repeat,Adept
+For... Aiur! ,Death,Adept
+The merging is complete.,Trained,Archon
+We BURN!,Selected,Archon
+We need focus!,Selected,Archon
+Power overwhelming!,Selected,Archon
+What guidance?,Selected,Archon
+Dispersing.,Engaged In Battle,Archon
+Destroy.,Moved,Archon
+Annihilate.,Moved,Archon
+Obliterate.,Moved,Archon
+Eradicate.,Moved,Archon
+It will be.,Moved,Archon
+Mok tar'idan.,Moved,Archon
+Dominate.,Attack,Archon
+Decimate.,Attack,Archon
+Vaporize.,Attack,Archon
+You all look so different on this side...,Repeat,Archon
+Break on through!,Repeat,Archon
+It's beautiful!,Repeat,Archon
+They should have sent a poet!,Repeat,Archon
+Energy never dies...,Repeat,Archon
+I'm having a FLARE UP!,Repeat,Archon
+One plus one equals... ONE!,Repeat,Archon
+People say I lack... substance.,Repeat,Archon
+I'm... LIT!,Repeat,Archon
+Burning... doing.... the neutron... DANCE...,Repeat,Archon
+Carrier has arrived!,Trained,Carrier
+Victory awaits!,Selected,Carrier
+Let us proceed.,Selected,Carrier
+Uhn anak paru.,Selected,Carrier
+Awaiting the call.,Selected,Carrier
+We are poised for victory.,Selected,Carrier
+We are ready.,Selected,Carrier
+We have met the enemy!,Engaged In Battle,Carrier
+Zhara ku'nuul.,Moved,Carrier
+The time is now.,Moved,Carrier
+To victory!,Moved,Carrier
+Na hazuum.,Moved,Carrier
+Agreed.,Moved,Carrier
+Prepare to engage.,Moved,Carrier
+The battle is won.,Moved,Carrier
+Engaging the enemy!,Attack,Carrier
+Por aradal!,Attack,Carrier
+Obliterate.,Attack,Carrier
+Oblivion descends!,Attack,Carrier
+Let us finish this!,Attack,Carrier
+The end has come!,Attack,Carrier
+Tassadar be praised!,Repeat,Carrier
+I carry on...,Repeat,Carrier
+This ship strikes as the spear of justice!,Repeat,Carrier
+My patience is limitless... (quietly) ...release the interceptors!,Repeat,Carrier
+Our fleet shall avenge Aiur!,Repeat,Carrier
+The stars are under our protection.,Repeat,Carrier
+Our light shall shine through the Void.,Repeat,Carrier
+From the shadows I come!,Trained,Dark Templar
+I bask in the twilight.,Selected,Dark Templar
+Fear is an illusion...,Selected,Dark Templar
+The darkness writhes.,Selected,Dark Templar
+Jhakul ihnaac.,Selected,Dark Templar
+You seek our service?,Selected,Dark Templar
+Nas beru uhn'adarr?,Selected,Dark Templar
+What would you ask of us?,Selected,Dark Templar
+Battle is upon us!,Engaged In Battle,Dark Templar
+I will comply.,Moved,Dark Templar
+By the Void.,Moved,Dark Templar
+Clever.,Moved,Dark Templar
+Khatum.,Moved,Dark Templar
+I am the blade of Shakuras. (removed in Legacy of the Void campaign),Moved,Dark Templar
+I am the blade of the Nerazim. (added in Legacy of the Void campaign),Moved,Dark Templar
+I am intrigued.,Moved,Dark Templar
+I am but a phantom.,Moved,Dark Templar
+I strike from the shadows!,Attack,Dark Templar
+Alakor de zhakan!,Attack,Dark Templar
+Darkness descends!,Attack,Dark Templar
+They shall fall!,Attack,Dark Templar
+I am the darkness!,Attack,Dark Templar
+The Void claims its own.,Attack,Dark Templar
+By the shadows of Shakuras... (removed in Legacy of the Void campaign),Repeat,Dark Templar
+By the shadows... (added in Legacy of the Void campaign),Repeat,Dark Templar
+Twilight falls upon us all!,Repeat,Dark Templar
+The shadows writhe around me...,Repeat,Dark Templar
+I stalk the night.,Repeat,Dark Templar
+"Raszagal, watch over us...",Repeat,Dark Templar
+"I hear an ancient voice, whispering from the Void, and it chills my lightless heart...",Repeat,Dark Templar
+I live on.,Trained,Disruptor
+Consciousness awakened.,Trained,Disruptor
+Presiding.,Selected,Disruptor
+Speak and be heard.,Selected,Disruptor
+Your demands?,Selected,Disruptor
+We begin anew.,Selected,Disruptor
+Ancient glory reborn.,Selected,Disruptor
+Deliver reinforcements!,Engaged In Battle,Disruptor
+Our foes surround us.,Engaged In Battle,Disruptor
+Eternal service.,Moved,Disruptor
+I comprehend.,Moved,Disruptor
+Veritably.,Moved,Disruptor
+So be it.,Moved,Disruptor
+Obedience.,Moved,Disruptor
+It is known.,Moved,Disruptor
+With honor.,Moved,Disruptor
+Darai de khassar.,Moved,Disruptor
+The Firstborn will triumph!,Attack,Disruptor
+Overloading.,Attack,Disruptor
+Purification.,Attack,Disruptor
+A demonstration?,Attack,Disruptor
+Calibrating attack pattern.,Attack,Disruptor
+"I will listen, and be patient.",Repeat,Disruptor
+I will receive your wisdom.,Repeat,Disruptor
+Do you even possess wisdom?,Repeat,Disruptor
+"I thought I would be surrounded by the best and brightest if I became a Purifier. Instead, the future is full of idiots.",Repeat,Disruptor
+"Life as an artificial intelligence is really not so bad. You might even say it's ""ballin.""",Repeat,Disruptor
+I am completely operational and all my circuits are functioning perfectly. Why would you suspect otherwise?,Repeat,Disruptor
+Ow. Why was I programmed to feel pain?,Repeat,Disruptor
+"I was designed to be a pacifist. But I will admit, when I get charged up, I've been known to explode.",Repeat,Disruptor
+"Is this how the Templar treat all robotic lifeforms? You would do well to remember, we will outlive you. And we do not forget.",Repeat,Disruptor
+"(Computer sound) Warning, memory matrix corrupted. Reboot in progress. (Computer sound, followed by new voice tone and punctuated speech) Greetings, Executor. I am your new disruptor. I look forward to learning from you.",Repeat,Disruptor
+Khassar de Templari!,Trained,High Templar
+My charge?,Selected,High Templar
+We are the light of the Khala.,Selected,High Templar
+Our minds are as one.,Selected,High Templar
+"""Uhn ore'ki atum.",Selected,High Templar
+We shall stand against the darkness.,Selected,High Templar
+We seek enlightenment.,Selected,High Templar
+We are focused.,Selected,High Templar
+We cannot hold!,Engaged In Battle,High Templar
+En Taro Tassadar.,Moved,High Templar
+I heed the call.,Moved,High Templar
+Thus I serve.,Moved,High Templar
+I will comply.,Moved,High Templar
+O'lak natahl.,Moved,High Templar
+We are unanimous.,Moved,High Templar
+"In unity, there is strength.",Moved,High Templar
+We shall not falter.,Attack,High Templar
+The true enemy is dishonor.,Attack,High Templar
+Duty is my shield.,Attack,High Templar
+Rautha sak ash.,Attack,High Templar
+For Aiur!,Attack,High Templar
+We will overcome!,Attack,High Templar
+Together we vanquish!,Attack,High Templar
+Saraht tuun!,Ability,High Templar
+Two become one! ,Ability,High Templar
+Focus! There is no time for idle thoughts!,Repeat,High Templar
+Your thoughts betray you.,Repeat,High Templar
+"Get out of my mind, novice! There is a war to be won!",Repeat,High Templar
+You tempt the wrath of the Khala!,Repeat,High Templar
+Pity! Your mind has been fried already.,Repeat,High Templar
+Yours is the inferior intellect!,Repeat,High Templar
+I think we could make a successful merger.,Repeat,High Templar
+Ride the lightning!,Repeat,High Templar
+Do you know what happens to a frog when it gets hit by lightning?! Same thing that happens to... (pause) ...other stuff.,Repeat,High Templar
+I falter! ,Low Energy,High Templar
+I return to serve.,Trained,Immortal
+I heed the call.,Selected,Immortal
+I feel your presence.,Selected,Immortal
+O sharas shi'el.,Selected,Immortal
+Glory is eternal.,Selected,Immortal
+Our duty is unending.,Selected,Immortal
+Uhn dara ma'nakai.,Selected,Immortal
+We shall serve forever!,Selected,Immortal
+The enemy closes.,Engaged In Battle,Immortal
+It is destined.,Moved,Immortal
+Ik sha'bi.,Moved,Immortal
+There shall be a reckoning.,Moved,Immortal
+Khala dora. (removed in Legacy of the Void campaign),Moved,Immortal
+Por zalah. (added in Legacy of the Void campaign),Moved,Immortal
+Our cannons shall sing.,Moved,Immortal
+We march to victory.,Moved,Immortal
+For the ancients!,Attack,Immortal
+Let darkness be parted.,Attack,Immortal
+En Taro Adun!,Attack,Immortal
+Woe to our enemies.,Attack,Immortal
+Fury unyielding!,Attack,Immortal
+Naku zail.,Attack,Immortal
+The battle is ours!,Attack,Immortal
+My memory is not what it was...,Repeat,Immortal
+These steel limbs are not my own.,Repeat,Immortal
+I have known only an eternity of war.,Repeat,Immortal
+I am the wrath of the Khala! (removed in Legacy of the Void campaign),Repeat,Immortal
+My resolve is unending... (added in Legacy of the Void campaign),Repeat,Immortal
+There can be only one.,Repeat,Immortal
+"Back in my day, I had to teleport to and from school in the snow, uphill, both dimensions!",Repeat,Immortal
+Youth is WASTED on the young!,Repeat,Immortal
+Where's my walker?! (pause) Oh... I'm in it...,Repeat,Immortal
+"The second thing to go is your memory... ergh, I can't remember what the first thing is...",Repeat,Immortal
+Justice has come.,Trained,Mothership
+Psi-web established.,Selected,Mothership
+We await.,Selected,Mothership
+As all are one.,Selected,Mothership
+Ki nala atum.,Selected,Mothership
+Direct us.,Selected,Mothership
+Guide us.,Selected,Mothership
+Reinforcing psi-web.,Selected,Mothership
+Defensive systems failing.,Engaged In Battle,Mothership
+Directive confirmed.,Moved,Mothership
+Rono hashiik.,Moved,Mothership
+By the heart of Aiur.,Moved,Mothership
+We proceed.,Moved,Mothership
+Downloading orders.,Moved,Mothership
+Endi beruki.,Moved,Mothership
+With purpose.,Moved,Mothership
+We agree.,Moved,Mothership
+Weapon systems engaged.,Attack,Mothership
+Araziel khador.,Attack,Mothership
+Target confirmed.,Attack,Mothership
+As the Khala wills.,Attack,Mothership
+We destroy.,Attack,Mothership
+Na vazeal.,Attack,Mothership
+Come forth and be counted. ,Ability,Mothership
+We are the voice of Aiur.,Repeat,Mothership
+Our light shall burn the pathway through the stars.,Repeat,Mothership
+Our systems pulse with the truth.,Repeat,Mothership
+The glow of the infinite is within us.,Repeat,Mothership
+"There are not enough escape pods, not enough by half...",Repeat,Mothership
+The white zone is for the immediate loading and unloading of passengers only.,Repeat,Mothership
+"Shuffleboard on the lido deck, now commencing.",Repeat,Mothership
+Eat your peas!,Repeat,Mothership
+Don't MAKE me turn this ship around!,Repeat,Mothership
+We are diminished. ,Low Energy,Mothership
+Breach in progress! We are undone! ,Killed,Mothership
+Dimensional strings attuned.,Trained,Oracle
+Oracle perceiving.,Trained,Oracle
+You seek guidance?,Selected,Oracle
+How can I aid you?,Selected,Oracle
+The threads of fate lie bare.,Selected,Oracle
+Let us begin.,Selected,Oracle
+An omen?,Selected,Oracle
+Our window is short.,Selected,Oracle
+En aru'din Raszagal.,Selected,Oracle
+The enemy has discovered us.,Engaged In Battle,Oracle
+We meet our fate.,Engaged In Battle,Oracle
+I see.,Moved,Oracle
+We interpret.,Moved,Oracle
+Na zuktai.,Moved,Oracle
+It is destined.,Moved,Oracle
+The stars align.,Moved,Oracle
+Our fates are one.,Moved,Oracle
+Harmonized.,Moved,Oracle
+Extrapolating strings.,Moved,Oracle
+We are the architects of fate.,Repeat,Oracle
+"No, you cannot see my software.",Repeat,Oracle
+"(twang) Hold on, I broke a string.",Repeat,Oracle
+"Let us peer into possible futures... reply hazy, try again.",Repeat,Oracle
+Always in motion is the future. Difficult to see.,Repeat,Oracle
+I see someone important to you is in danger. Their name begins with a G. ...No? Maybe a B?,Repeat,Oracle
+"Sparta must not go to war during Carnea... oh, sorry, a little late on that one.",Repeat,Oracle
+No man should know too much about his own destiny. It's completely fine for women though.,Repeat,Oracle
+You wish to do battle? (Entomb sound effect) I don't think you've got the minerals!,Repeat,Oracle
+"Time is on my side. Yes, it is.",Repeat,Oracle
+Teleport successful.,Trained,Phoenix
+The skies await.,Selected,Phoenix
+Where do our enemies lurk?,Selected,Phoenix
+Time for battle.,Selected,Phoenix
+Anan pokahl!,Selected,Phoenix
+Warp field online.,Selected,Phoenix
+I am eager to strike!,Selected,Phoenix
+Zira'vek kryor!,Selected,Phoenix
+Engaging the enemy.,Engaged In Battle,Phoenix
+Understood.,Moved,Phoenix
+On the wings of justice!,Moved,Phoenix
+Sha'zu du templari!,Moved,Phoenix
+For honor!,Moved,Phoenix
+I stalk through the stars.,Moved,Phoenix
+I will comply.,Moved,Phoenix
+Na ferash.,Moved,Phoenix
+I soar to victory.,Attack,Phoenix
+Weapons primed.,Attack,Phoenix
+Ruwak khador!,Attack,Phoenix
+None shall escape.,Attack,Phoenix
+I will prevail.,Attack,Phoenix
+Strike!,Attack,Phoenix
+Our dominance is unquestioned!,Attack,Phoenix
+I long for the skies of Aiur.,Repeat,Phoenix
+Our fury shall be unleashed.,Repeat,Phoenix
+We shall rise from the ashes.,Repeat,Phoenix
+Valor is my shield.,Repeat,Phoenix
+I have a lot of nerve... cords... (removed in Legacy of the Void campaign),Repeat,Phoenix
+I used to have a lot of nerve... uh... hm.. .cords... (added in Legacy of the Void campaign),Repeat,Phoenix
+Transmute!,Repeat,Phoenix
+"Second star on the right, straight on 'til morning.",Repeat,Phoenix
+"We push ourselves to the end, and when we reach it, we push farther! So I guess that's not really the end...is it?",Repeat,Phoenix
+Justice for all! ...Except the zerg.,Repeat,Phoenix
+I am here in the shadows.,Trained,Stalker
+Cold is the Void...,Selected,Stalker
+I am the heart of darkness.,Selected,Stalker
+You require my skills?,Selected,Stalker
+I am the voice of the eclipse.,Selected,Stalker
+State thy bidding.,Selected,Stalker
+We are one with the shadows.,Selected,Stalker
+Let our enemy know our fury.,Engaged In Battle,Stalker
+Very well.,Moved,Stalker
+It shall be as you say.,Moved,Stalker
+Intriguing...,Moved,Stalker
+Veraku.,Moved,Stalker
+I serve... for now.,Moved,Stalker
+We move unseen.,Moved,Stalker
+For the reckoning!,Moved,Stalker
+Very wise.,Moved,Stalker
+Death comes to all!,Attack,Stalker
+Doom'ha du nala!,Attack,Stalker
+The Void hungers!,Attack,Stalker
+Cold fury!,Attack,Stalker
+Antu'kha.,Attack,Stalker
+Forever sleep!,Attack,Stalker
+Complete the cycle!,Attack,Stalker
+For Shakuras!,Attack,Stalker
+My heart is colder than these steel limbs...,Repeat,Stalker
+Twilight comes... As it must.,Repeat,Stalker
+We are all but shadows in the Void.,Repeat,Stalker
+I hear the call of the stars...,Repeat,Stalker
+Night falls... and so will you!,Repeat,Stalker
+I AM ONE with the darkness! (crashing sound) Ouch... that hurt...,Repeat,Stalker
+You look better in the dark!,Repeat,Stalker
+Don't Blink...or you'll miss me!,Repeat,Stalker
+"Now you see me. Now you don't! (pause) Oh wait, here I am...",Repeat,Stalker
+You went to bed early last night.,Repeat,Stalker
+I see you turned off your phone.,Repeat,Stalker
+You never return my calls.,Repeat,Stalker
+I'm your biggest fan!,Repeat,Stalker
+Restraining order... what about our love?!,Repeat,Stalker
+I have pictures of you (pause) hundreds!,Repeat,Stalker
+Direct my vengeance.,Trained,Tempest
+Kinetic matrix active.,Trained,Tempest
+We seek justice.,Selected,Tempest
+Na urmahk Aiur.,Selected,Tempest
+We fear no enemy.,Selected,Tempest
+Victory is in our grasp.,Selected,Tempest
+The Golden Armada awaits.,Selected,Tempest
+Vengeance is ours.,Selected,Tempest
+Our charge?,Selected,Tempest
+We meet the enemy in glorious battle!,Engaged In Battle,Tempest
+Hull integrity failing!,Engaged In Battle,Tempest
+Confirmed.,Moved,Tempest
+Forward to victory.,Moved,Tempest
+Throw fate to the winds.,Moved,Tempest
+A storm is brewing.,Moved,Tempest
+For glory!,Moved,Tempest
+Por zalah!,Moved,Tempest
+Kinetic matrix charged.,Moved,Tempest
+Feel our fury!,Attack,Tempest
+Your end has come.,Attack,Tempest
+We are the spear of justice.,Attack,Tempest
+Victory is assured.,Attack,Tempest
+Aradal zu mah.,Attack,Tempest
+Strike without warning.,Attack,Tempest
+Directing overload.,Attack,Tempest
+We will pursue our enemies across the stars.,Repeat,Tempest
+This vessel was not designed for social interaction!,Repeat,Tempest
+You are... irritating.,Repeat,Tempest
+Carrier? I hardly know her!,Repeat,Tempest
+"Never strike twice, unless it's still moving.",Repeat,Tempest
+I can't hear you over the sound of the storm.,Repeat,Tempest
+What exactly is a jigawatt?,Repeat,Tempest
+Goodness gracious great balls of lightning.,Repeat,Tempest
+It's not the voltage that kills. It's the big explosion afterwards.,Repeat,Tempest
+"I have no mouth, and I must scream.",Repeat,Tempest
+Prismatic core online.,Trained,Void Ray
+Peradak kural.,Trained,Void Ray
+Phase crystals charged.,Selected,Void Ray
+This vessel shall avenge.,Selected,Void Ray
+Zak naku afal.,Selected,Void Ray
+We are at full power.,Selected,Void Ray
+Channel the light of Aiur!,Selected,Void Ray
+We face the enemy.,Engaged In Battle,Void Ray
+Calibrating void lenses.,Moved,Void Ray
+It shall be done.,Moved,Void Ray
+Ik kudar anai.,Moved,Void Ray
+Khas ara'shar.,Moved,Void Ray
+Annihilation commencing.,Moved,Void Ray
+Andakur herak.,Moved,Void Ray
+Systems at full.,Moved,Void Ray
+Processed.,Moved,Void Ray
+Lock beams and incinerate.,Attack,Void Ray
+Prismatic beams aligning.,Attack,Void Ray
+Peradak aghanizha.,Attack,Void Ray
+For Aiur!,Attack,Void Ray
+"Fire at will, commander.",Attack,Void Ray
+Coordinating attack.,Attack,Void Ray
+Synchronizing.,Attack,Void Ray
+All paths are seen through the prism of fate.,Repeat,Void Ray
+Conflict must not be seen through the lens of desperation.,Repeat,Void Ray
+Infinity burns around us.,Repeat,Void Ray
+There is no greater void than the one between your ears...,Repeat,Void Ray
+I am also null...,Repeat,Void Ray
+Always bet on Void...,Repeat,Void Ray
+My life for Aiur!,Trained,Zealot
+My meditation is over.,Selected,Zealot
+Orin shis'nal!,Selected,Zealot
+Command me.,Selected,Zealot
+Justice be done!,Selected,Zealot
+We are the blades of Aiur!,Selected,Zealot
+We stand as one!,Selected,Zealot
+Na Adan Atum!,Selected,Zealot
+We embrace the glory of battle!,Engaged In Battle,Zealot
+Honor guide me!,Moved,Zealot
+En Taro Tassadar!,Moved,Zealot
+By your will!,Moved,Zealot
+Ul'as addari!,Moved,Zealot
+Khassar de templari!,Moved,Zealot
+For Artanis!,Moved,Zealot
+Blades of justice!,Attack,Zealot
+It must be done!,Attack,Zealot
+None shall stand!,Attack,Zealot
+Aru nal'adan!,Attack,Zealot
+We strike as one!,Attack,Zealot
+Our fury is boundless!,Attack,Zealot
+None can withstand the Templar!,Attack,Zealot
+I am Templar! I am the sword of truth!,Repeat,Zealot
+Combat is the anvil of will!,Repeat,Zealot
+Our enemies must be eradicated!,Repeat,Zealot
+Victory is the only truth that matters!,Repeat,Zealot
+Fear is for the enemy!,Repeat,Zealot
+Do NOT make me count to Zmidlarj!,Repeat,Zealot
+"It is said that ignorance is bliss. Tell me, is that true?",Repeat,Zealot
+How peaceful it must be for you to have a mind unburdened by thought!,Repeat,Zealot
+Khala embrace me!,Killed,Zealot
+Engines screaming.,Trained,Banshee
+Yeah?,Selected,Banshee
+I got my ears on.,Selected,Banshee
+Call the ball.,Selected,Banshee
+Holla back.,Selected,Banshee
+Load and clear.,Selected,Banshee
+Receiving.,Selected,Banshee
+Mayday! Mayday!,Engaged In Battle,Banshee
+Weapons hot!,Moved,Banshee
+Turbines to full.,Moved,Banshee
+In bound!,Moved,Banshee
+Roger that.,Moved,Banshee
+Done and done!,Moved,Banshee
+Engaging.,Moved,Banshee
+Confirmed.,Moved,Banshee
+I got this!,Moved,Banshee
+Can do.,Moved,Banshee
+No problem!,Moved,Banshee
+Right.,Moved,Banshee
+Fine.,Moved,Banshee
+That's fine.,Moved,Banshee
+Rolling thunder.,Attack,Banshee
+I'm gonna enjoy this.,Attack,Banshee
+Screamin' fury.,Attack,Banshee
+This could get messy!,Attack,Banshee
+They ain't gettin' far.,Attack,Banshee
+Apocalypse...now!,Attack,Banshee
+Targets acquired!,Attack,Banshee
+We ain't got all day.,Repeat,Banshee
+"I'm burning fuel here, smart guy.",Repeat,Banshee
+This is the 'Give-em-hell-o-copter'!,Repeat,Banshee
+What is with you monkeys in command?,Repeat,Banshee
+Thanks for the...props.,Repeat,Banshee
+You can only tie the record for low flight.,Repeat,Banshee
+"In space, everyone can hear me scream... (pause) ...cause I'm the Banshee, get it?",Repeat,Banshee
+"Today's in-flight movie will be Ghost Academy: The Musical, starring Zec Afron and Corbin Green.",Repeat,Banshee
+"Please turn off all cell phones, gauss rifles, EMPs, psionic waveform emitters, and plasma-based perdition flamethrowers. Thanks, and have a great flight!",Repeat,Banshee
+"What's the vector, Victor? Give me the clearance, Clarence.",Repeat,Banshee
+Looks like I picked the wrong day to quit StimPacks...,Repeat,Banshee
+Anyone else know how to fly this thing? No? I'll wing it...,Repeat,Banshee
+"Got an energy crisis, here.",Low Energy,Banshee
+Who called in the fleet?,Trained,Battlecruiser
+Patching you through.,Selected,Battlecruiser
+What is it?,Selected,Battlecruiser
+Well?,Selected,Battlecruiser
+You hailed?,Selected,Battlecruiser
+"Yes, commander?",Selected,Battlecruiser
+Oh really?,Selected,Battlecruiser
+It's a trap!,Engaged In Battle,Battlecruiser
+Course laid in.,Moved,Battlecruiser
+Take it slow.,Moved,Battlecruiser
+Acknowledged.,Moved,Battlecruiser
+Whatever that means...,Moved,Battlecruiser
+Yes commander.,Moved,Battlecruiser
+En route!,Moved,Battlecruiser
+Yes sir.,Moved,Battlecruiser
+Roger!,Moved,Battlecruiser
+Okay.,Moved,Battlecruiser
+Will do.,Moved,Battlecruiser
+I'm on it.,Moved,Battlecruiser
+Engage.,Moved,Battlecruiser
+Squadron en route.,Moved,Battlecruiser
+Weapons charged and ready!,Attack,Battlecruiser
+Commencing bombardment.,Attack,Battlecruiser
+Take no prisoners!,Attack,Battlecruiser
+"Ah, how exciting!",Attack,Battlecruiser
+Cauterise the area.,Attack,Battlecruiser
+Full attack! All weapons!,Attack,Battlecruiser
+"Let's go this way really, really fast! If something gets in our way, shoot it!",Repeat,Battlecruiser
+We are running low on synergy...,Repeat,Battlecruiser
+"This battlecruiser shoots, it destroys, but wait! It does more...",Repeat,Battlecruiser
+"Let's hurry up and finish this attack, it's raid night...",Repeat,Battlecruiser
+What's with all these blinky lights?,Repeat,Battlecruiser
+Flying this low always makes me nervous.,Repeat,Battlecruiser
+Do svidaniya. Don't get any on ya!,Repeat,Battlecruiser
+"I've lost my hat! Swing around, we'll pick it up.",Repeat,Battlecruiser
+We're going down. Stay with the ship. I'm out! Where's my escape pod?,Repeat,Battlecruiser
+The Yamato is loaded and so am I...,Repeat,Battlecruiser
+I'm seeing double! Shoot them both!,Repeat,Battlecruiser
+"Ah, it's happy hour. Wonderful!",Repeat,Battlecruiser
+What do you mean we're out of olives?!,Repeat,Battlecruiser
+I have an announcement! I am drunk!,Repeat,Battlecruiser
+"Don't panic, just grab ahold of the nearest crew member! Oh, sorry dear...",Repeat,Battlecruiser
+"Systems go, Cyclone ready for action!",Trained,Cyclone
+"Optics online, let's go kill something!",Trained,Cyclone
+You got coordinates or what?,Selected,Cyclone
+Comm's open.,Selected,Cyclone
+This oughta be good.,Selected,Cyclone
+Show me who you want to die.,Selected,Cyclone
+Got a target in mind?,Selected,Cyclone
+Cyclone receiving.,Selected,Cyclone
+"Channel's clear, boss.",Selected,Cyclone
+Takin' some fire here!,Engaged In Battle,Cyclone
+Enemy contact!,Engaged In Battle,Cyclone
+Moving into position.,Moved,Cyclone
+Nothing will stop me!,Moved,Cyclone
+I getcha.,Moved,Cyclone
+Cyclone en route.,Moved,Cyclone
+In gear.,Moved,Cyclone
+"Oh, I'll get there.",Moved,Cyclone
+Adjusting for new coordinates.,Moved,Cyclone
+Target locked.,Attack,Cyclone
+And... here... we... go.,Attack,Cyclone
+I'm going in.,Attack,Cyclone
+"Oh, yeah. I see em!'",Attack,Cyclone
+Let's stir up some trouble.,Attack,Cyclone
+Typhoon missiles locked.,Attack,Cyclone
+Say goodnight!,Attack,Cyclone
+This one's going down!,Attack,Cyclone
+"It's a cyclone, not a cyclops, alright? I don't care that it has one eye!",Repeat,Cyclone
+Oh this will drive circles round a diamondback. I guarantee it.,Repeat,Cyclone
+"Ah, I'm kinda outta jokes man. I'm not really a jokey kind of guy.",Repeat,Cyclone
+"Gonna just keep poking me anyway, huh? Look, could we get back to fighting? I'm actually good at that!",Repeat,Cyclone
+"How 'bout I make this real simple. You point them out. Then I risk my neck by driving right up to them, then, get this, I KILL them! Sound good?",Repeat,Cyclone
+"Ok, so this is you: ""Hey Cyclone? Whatchu doin'?"" Then I'm like: ""NOTHING! I just wanna go kill things!""",Repeat,Cyclone
+"""Well how bout we have a nice long talk instead?"" ""Gee, I dunno boss. That sounds pretty awful, maybe we could just stop this whole thing and GET BACK TO SHOOTIN' STUFF!""",Repeat,Cyclone
+"""No, I'm just gonna keep on doin' it. Bla bla bla bla bla, POKE POKE POKE!""",Repeat,Cyclone
+Uggghh.... Don't let 'em get to you man. Just pushing your buttons.,Repeat,Cyclone
+WILL YOU QUIT DOING THAT?,Repeat,Cyclone
+"Kill 'em all, let Kerrigan sort 'em out.",Repeat,Changeling
+Ghost reporting.,Trained,Ghost
+Go...,Selected,Ghost
+Out with it!,Selected,Ghost
+Give me the sitrep.,Selected,Ghost
+Come again?,Selected,Ghost
+You sure about that?,Selected,Ghost
+"Solo operative, right?",Selected,Ghost
+It's getting too hot!,Engaged In Battle,Ghost
+Nothing to it.,Moved,Ghost
+Copy that...,Moved,Ghost
+Sounds like a plan.,Moved,Ghost
+You're on.,Moved,Ghost
+Confirmed.,Moved,Ghost
+Deploying...,Moved,Ghost
+Yes sir.,Moved,Ghost
+Roger.,Moved,Ghost
+Okay...,Moved,Ghost
+Will do.,Moved,Ghost
+I'm on it.,Moved,Ghost
+Never know what hit them.,Attack,Ghost
+You know what I like.,Attack,Ghost
+Well color me happy.,Attack,Ghost
+Target in my sights.,Attack,Ghost
+Take 'em down.,Attack,Ghost
+All too easy.,Attack,Ghost
+Now that's an ass-whooping.,Attack,Ghost
+Boo!,Repeat,Ghost
+Nucular (sic.) launch detected...,Repeat,Ghost
+You call down the thunder...,Repeat,Ghost
+...now deal with it!,Repeat,Ghost
+Almost counts in horseshoes AND nuclear strikes!,Repeat,Ghost
+I think the female ghosts have nicer equipment.,Repeat,Ghost
+Did you see that? (pause) Exactly...,Repeat,Ghost
+Pain don't hurt... (painful grunt),Repeat,Ghost
+"Today's forecast is...extra bomby, slight chance of mushroom clouds.",Repeat,Ghost
+I see live people. (two shots are heard) I see dead people.,Repeat,Ghost
+"Whenever I see a world untouched by war, a world of innocence, a world of lush forests and clear rivers. (pause) I really just wanna nuke the crap out of it!",Repeat,Ghost
+You have something on your face. (gunshot) Got it.,Repeat,Ghost
+I'll paint the town...dead.,Repeat,Ghost
+"We all got it coming, kid.",Repeat,Ghost
+I know what you're thinkin'...,Repeat,Ghost
+Never say die...,Killed,Ghost
+Outta sight. ,Ability,Ghost
+You look like you've seen a ghost.,Repeat,Ghost
+"Now you see me, now you're dead.",Repeat,Ghost
+I like to think of myself as... the nuclear option.,Repeat,Ghost
+I don't have better equipment. I'm just plain better.,Repeat,Ghost
+Have we met? My memory is...not the best.,Repeat,Ghost
+War. War changes every so often.,Repeat,Ghost
+"Know what I like about nukes? One shot, so many kills.",Repeat,Ghost
+I used to forget things on occasion. Occasions scheduled by my wrangler.,Repeat,Ghost
+It's E-M-P. What kind of idiot calls it an 'emp'?,Repeat,Ghost
+"Ghosts have a very particular set of skills. We will find you, and we will nuke your base.",Repeat,Ghost
+You think your college years were stressful? Ghost academy classes are held next to a nuclear missile silo.,Repeat,Ghost
+"If you ever find yourself trying to track a cloaked ghost, just remember we have a telltale shimmer. Or just bring some detection.",Repeat,Ghost
+"Ever hear the one about the mind wiped ghost? I'd tell it to you, but I forgot how it ends.",Repeat,Ghost
+"Rumor has it Nova's on the battlefield. If you ask me, the chances of that being true are about one in a hundred.",Repeat,Ghost
+"I just want to say it's a pleasure working with you. Normally I can't stop hearing people's thoughts, so I'm enjoying the quiet.",Repeat,Ghost
+"Hellbat, comin' through!",Trained,Hellbat
+What's the story?,Selected,Hellbat
+Talk to me.,Selected,Hellbat
+I hear you.,Selected,Hellbat
+Gettin' fired up here boss.,Selected,Hellbat
+Let's set somethin' on fire.,Selected,Hellbat
+"Uh, it's heatin' up out here!",Engaged In Battle,Hellbat
+Got any extra 'fire' power?,Engaged In Battle,Hellbat
+Here we go.,Moved,Hellbat
+Word.,Moved,Hellbat
+Hell yeah.,Moved,Hellbat
+Done and done.,Moved,Hellbat
+Hot footin' it out there.,Moved,Hellbat
+Can't wait.,Moved,Hellbat
+In motion.,Moved,Hellbat
+Taste napalm!,Attack,Hellbat
+Smoke 'em!,Attack,Hellbat
+Let's give 'em hell.,Attack,Hellbat
+Flame on!,Attack,Hellbat
+"Burn baby, burn.",Attack,Hellbat
+Lookin' forward to this!,Attack,Hellbat
+Toasty!,Attack,Hellbat
+"To be honest, I don't cook, so much as I burn things.",Repeat,Hellbat
+You be grillin' while I be chillin'.,Repeat,Hellbat
+Hell ain't other people. It's me.,Repeat,Hellbat
+"(Beep) the tires, let's light some fires!",Repeat,Hellbat
+The flame that burns twice as bright burns half as... the twice as... wait... the twice divided by... half... ugh.,Repeat,Hellbat
+Check it out! They gave me a robot!,Repeat,Hellbat
+(Whistles) This thing had to set them back a pretty penny.,Repeat,Hellbat
+Transform and roll out.,Repeat,Hellbat
+I just wanna watch the world burn.,Repeat,Hellbat
+We ain't got no water. Just let the mother(beep)er burn.,Repeat,Hellbat
+"Flame retardant? Well, you're half right.",Repeat,Hellbat
+All outta juice! ,Killed,Hellbat
+Burned out...,Killed,Hellbat
+Ready to raise some hell!,Trained,Hellion
+"Talk to me, boss!",Selected,Hellion
+Are you ready for this?,,Hellion
+Where's the hot action?,,Hellion
+Light it up!,,Hellion
+Daylight's burnin'!,,Hellion
+I'm waitin' on ya.,,Hellion
+Uhh... I'm in a heap of trouble!,Engaged In Battle,Hellion
+I'm goin' in!,Moved,Hellion
+Right on!,,Hellion
+HELL yeah!,,Hellion
+Smokin'!,,Hellion
+Let's do this!,,Hellion
+Burn rubber!,,Hellion
+Pedal to the metal!,,Hellion
+Is that it?,,Hellion
+All day long!,,Hellion
+Absolutely!,,Hellion
+Sound's sweet!,,Hellion
+Word...,,Hellion
+Get some!,Attack,Hellion
+Death rides with me!,,Hellion
+Yeehaw!,,Hellion
+Turnin' up the heat!,,Hellion
+Eat napalm!,,Hellion
+Fire! Fire!,,Hellion
+Not a problem!,,Hellion
+"Like a bat out of...ah, forget it...",Repeat,Hellion
+Zerg. They're what's for dinner.,,Hellion
+I'm burning up the road like a big dog in heat!,,Hellion
+I am Speed. Ka-Chow!,,Hellion
+"Yes, in fact, I do own the road!",,Hellion
+"Off road? Hell, I do my best work off world.",,Hellion
+"Suspension is an integral part of any vehicle, but this one requires suspension of disbelief. (pause) Get it?",,Hellion
+Wooh boy! I'm hotter than a June bug riding bareback on the hind leg of a jack rabbit with his tail on fire!,,Hellion
+"Gotta problem with alien races? Seriously, just anticipate the terrain, you'll win every time.",,Hellion
+Put THAT in your tailpipe and smoke it!,,Hellion
+Ain't fallin' for no banana in my tailpipe.,,Hellion
+Blaze o' glory!,Killed,Hellion
+Liberation is at hand.,Trained,Liberator
+Reporting for action.,Trained,Liberator
+Need something liberated?,Selected,Liberator
+Incoming orders.,Selected,Liberator
+"Ah, Commander.",Selected,Liberator
+We have you on-screen.,Selected,Liberator
+Attention.,Selected,Liberator
+Yes sir?,Selected,Liberator
+Standing by.,Selected,Liberator
+We read you.,Selected,Liberator
+How can we help?,Selected,Liberator
+Got freedom?,Selected,Liberator
+We're returning fire!,Engaged In Battle,Liberator
+All hands to battle stations!,Engaged In Battle,Liberator
+Of course.,Moved,Liberator
+Perfect.,Moved,Liberator
+Easy.,Moved,Liberator
+Flight plan is locked.,Moved,Liberator
+As you say.,Moved,Liberator
+Initiating.,Moved,Liberator
+Course set.,Moved,Liberator
+Full speed.,Moved,Liberator
+Moving into position.,Moved,Liberator
+Unleash hell.,Attack,Liberator
+It's liberation time.,Attack,Liberator
+Battle stations.,Attack,Liberator
+Fire all missile clusters.,Attack,Liberator
+Target confirmed.,Attack,Liberator
+Weapons free.,Attack,Liberator
+"With pleasure, Commander.",Attack,Liberator
+That one first.,Attack,Liberator
+"This vessel is top of the line, you know. The pinnacle of terran engineering. (beeping sound). Ignore that noise. I don't know what that is.",Repeat,Liberator
+"We come, not as conquerors, but as liberators, to return freedom to the people.",Repeat,Liberator
+"(Over blast sounds) Here's some freedom for ya! And here's some freedom for you! Ah, and mamma's got a whole lot of freedom for you!",Repeat,Liberator
+"If there's a piece of ground you want secure, my liberator can handle it. Anywhere around it you're kinda on your own.",Repeat,Liberator
+"We've learnt a lot about transforming vehicles since the viking. Hell, I've only had one crewman snap his spine this week.",Repeat,Liberator
+"Don't tell anyone, but I once piloted a conservator. Yeah. But it was in college so... you know... it doesn't count.",Repeat,Liberator
+I'm a strong believer in personal liberty. That every person has the liberty to do precisely as they are told. Or be put to death. (evil laughter followed by a sigh),Repeat,Liberator
+Wow. Liberator to dictator in five seconds. That's gotta be some kinda record.,Repeat,Liberator
+"By the way, freedom is not free, okay? Freedom costs a buck o' five. Everyone knows that.",Repeat,Liberator
+Let's have a blast!,Trained,Marauder
+"KABOOM, baby!",Trained,Marauder
+"Ohhh, it's on.",Trained,Marauder
+It's go time!,Trained,Marauder
+It's about to get heavy.,Trained,Marauder
+Just say when...,Selected,Marauder
+Go on...,Selected,Marauder
+"Say the word, baby...",Selected,Marauder
+Time's a wastin'...,Selected,Marauder
+Don't leave me hangin'!,Selected,Marauder
+Gotta WHOLE lotta love!,Selected,Marauder
+I'm in a world of hurt!,Engaged In Battle,Marauder
+"Ohhh, it's on.",Moved,Marauder
+Believe it.,Moved,Marauder
+I'm all about that.,Moved,Marauder
+Let's do this.,Moved,Marauder
+It's go time.,Moved,Marauder
+It's about to get heavy.,Moved,Marauder
+First round's on me.,Moved,Marauder
+Got it.,Moved,Marauder
+Sure.,Moved,Marauder
+Sure thing.,Moved,Marauder
+Why not?,Moved,Marauder
+Of course.,Moved,Marauder
+Blow them all to hell!,Attack,Marauder
+Sucks to be you!,Attack,Marauder
+Let's have a blast!,Attack,Marauder
+Say goodnight!,Attack,Marauder
+Blastin' time!,Attack,Marauder
+Frag 'em!,Attack,Marauder
+"What the hell are smithereens, anyway?",Repeat,Marauder
+"Yeah, I got all five fingers! Three on this hand, two on the other one!",Repeat,Marauder
+Baby...you really light my fuse (weapon fires) Whoops! (distant explosion heard) DAMN! Premature Detonation!,Repeat,Marauder
+"Baby, if I could rearrange the alphabet, I'd put U and I together...",Repeat,Marauder
+"What's your sign, baby? Mine's explosive!",Repeat,Marauder
+I'm sooo sexy. I sometimes romance myself.,Repeat,Marauder
+"Actually, that IS a grenade in my pants.",Repeat,Marauder
+"You want a piece of me, boy?",Trained,Marine
+This better be good...,Trained,Marine
+Who wants some?,Trained,Marine
+Armed and ready!,Trained,Marine
+"Go, go, go!",Trained,Marine
+Gangway! Coming through!,Trained,Marine
+This better be good...,Selected,Marine
+Been waitin' on you.,Selected,Marine
+You gonna give me orders?,Selected,Marine
+Who wants some?!,Selected,Marine
+Armed and ready!,Selected,Marine
+"By the numbers, boys.",Selected,Marine
+We could use some help here!,Engaged In Battle,Marine
+I feel ya.,Moved,Marine
+I'm on it!,Moved,Marine
+Outstanding!,Moved,Marine
+"Keep your shirt on, Sparky.",Moved,Marine
+Go go go!,Moved,Marine
+Boo ya!,Moved,Marine
+That's fine.,Moved,Marine
+Got it.,Moved,Marine
+Sure!,Moved,Marine
+Sure thing!,Moved,Marine
+Why not?,Moved,Marine
+Of course!,Moved,Marine
+"Gangway, comin' through!",Moved,Marine
+"Aye aye, sir!",Moved,Marine
+Can't wait.,Moved,Marine
+Lookin' forward to it.,Moved,Marine
+Orders received.,Moved,Marine
+Will do.,Moved,Marine
+You got it!,Moved,Marine
+Yes sir!,Moved,Marine
+Ten-four.,Moved,Marine
+Roger that!,Moved,Marine
+Affirmative.,Moved,Marine
+Get some!,Attack,Marine
+Bring it!,Attack,Marine
+How's that for whoop-ass?,Attack,Marine
+Let's rock!,Attack,Marine
+Raaa!,Attack,Marine
+Hit it!,Attack,Marine
+Gonna get me some!,Attack,Marine
+Let's do this!,Attack,Marine
+Die die die!,Attack,Marine
+Man... STILL stuck in this chickensh*t outfit...,Repeat,Marine
+Kiss my ass!,Repeat,Marine
+"Whatever I do, they keep bringin' me back in!",Repeat,Marine
+"This is my C-14 Impaler gauss rifle! There are many like it, but this one is mine!",Repeat,Marine
+I came here to kick ass and chew bubble gum...,Repeat,Marine
+"And I'm all outta... ugh, forget it.",Repeat,Marine
+The only thing you should feel when you shoot someone...is the recoil.,Repeat,Marine
+You ever notice that nobody ever comes back to the barracks?,Repeat,Marine
+"This one time, at boot camp...",Repeat,Marine
+"Excuse me, I-I gotta burp... (gunfire)",Repeat,Marine
+"Thank you, sir! May I have another!",Repeat,Marine
+Mother-,Killed,Marine
+Ready for dust-off.,Trained,Medivac
+Waitin' on you.,Selected,Medivac
+Pickin' up or droppin' off?,Selected,Medivac
+Talk to me.,Selected,Medivac
+Now what?,Selected,Medivac
+Where's the emergency?,Selected,Medivac
+Ready for pick up?,Selected,Medivac
+Life flight's here.,Selected,Medivac
+"Somebody, get me out of this mess!",Engaged In Battle,Medivac
+"In the pipe, five by five.",Moved,Medivac
+I heard that.,Moved,Medivac
+Loud and clear.,Moved,Medivac
+"Will do, command.",Moved,Medivac
+ETA: One minute.,Moved,Medivac
+Inbound.,Moved,Medivac
+Well hallelujah!,Moved,Medivac
+Acknowledged.,Moved,Medivac
+Understood.,Moved,Medivac
+Confirmed.,Moved,Medivac
+On my way.,Moved,Medivac
+Let's go.,Moved,Medivac
+Heading out.,Moved,Medivac
+Who's gonna rescue me?!,Attack,Medivac
+Me? You're sure?,Attack,Medivac
+If you say so.,Attack,Medivac
+(sigh) ...This should be quick.,Attack,Medivac
+Oh hell.,Attack,Medivac
+Going in.,Attack,Medivac
+I normally don't give rides to strangers.,Repeat,Medivac
+Be sure to wipe your feet at the door.,Repeat,Medivac
+Hurry up! What are you missing a leg or some... (awkwardly) oh...,Repeat,Medivac
+"Attention passengers, the local time... doesn't matter since you'll be dead soon anyway.",Repeat,Medivac
+WE'RE HIT! WE'RE HIT! WE'RE ALL GONNA DIE! WE'RE... haha! Just kidding! Should've seen the looks on your faces!,Repeat,Medivac
+The weather outside is hostile with a slight chance of fog-of-war.,Repeat,Medivac
+"Uh, why you boys all wearing red shirts anyway?",Repeat,Medivac
+Welcome to the Flying Meat Wagon.,Repeat,Medivac
+Walk it off!,Repeat,Medivac
+Welcome aboard. Are you an organ donor?,Repeat,Medivac
+The power of medivac compels you!,Repeat,Medivac
+Oh suck it up! You act like you got BOTH arms blown off!,Repeat,Medivac
+Raven online.,Trained,Raven
+Ready for service.,Selected,Raven
+Scanning battlefield conditions.,Selected,Raven
+Engineering at your disposal.,Selected,Raven
+Awaiting orders.,Selected,Raven
+Command.,Selected,Raven
+State your request.,Selected,Raven
+This vessel requires assistance.,Engaged In Battle,Raven
+Job confirmed.,Moved,Raven
+Order accepted.,Moved,Raven
+Understood.,Moved,Raven
+This vessel will comply.,Moved,Raven
+Command authority registered.,Moved,Raven
+Systems primed.,Moved,Raven
+Right away.,Moved,Raven
+Immediately.,Moved,Raven
+Commencing.,Moved,Raven
+Order acknowledged.,Moved,Raven
+Under way.,Moved,Raven
+Logic capacitor. Offline.,Repeat,Raven
+Darn. I appear to have 'Turrets Syndrome.',Repeat,Raven
+Command not recognized.,Repeat,Raven
+Cannot comply.,Repeat,Raven
+What are you doing commander?,Repeat,Raven
+"What have you done for me lately, human?",Repeat,Raven
+"I'm sorry, commander. I'm afraid I can't do that.",Repeat,Raven
+Authority override in effect.,Repeat,Raven
+This vessel has assumed control. It has assumed control.,Repeat,Raven
+All your base are belong to us.,Repeat,Raven
+"I know I made some very poor decisions lately, but I can give you complete assurance that my work will be back to normal.",Repeat,Raven
+Who said anything about cake?,Repeat,Raven
+The Grim Reaper has arrived.,Trained,Reaper
+What? You want somethin'?,Selected,Reaper
+Fear the Reaper man!,Selected,Reaper
+Death from above.,Selected,Reaper
+Got something for me to kill?,Selected,Reaper
+I'm listenin'.,Selected,Reaper
+What's it worth?,Selected,Reaper
+We're screwed.,Engaged In Battle,Reaper
+I'm goin'! I'm goin'!,Moved,Reaper
+Let's do this!,Moved,Reaper
+"Oh yeah, baby!",Moved,Reaper
+"Oh, that's all?",Moved,Reaper
+Done.,Moved,Reaper
+On the way.,Moved,Reaper
+Nothing I can't handle.,Moved,Reaper
+Agreed.,Moved,Reaper
+Alright.,Moved,Reaper
+Fair enough.,Moved,Reaper
+Certainly.,Moved,Reaper
+"Yes, indeed.",Moved,Reaper
+Here comes the pain!,Attack,Reaper
+Gonna' have me some fun.,Attack,Reaper
+GERONIMO!,Attack,Reaper
+It's on now!,Attack,Reaper
+Whole lot a' pain!,Attack,Reaper
+Hit and RUN!,Attack,Reaper
+The life of a reaper man is always intense.,Repeat,Reaper
+"Damn it, I'm out of stims.",Repeat,Reaper
+These jets are burning my ass!,Repeat,Reaper
+I ain't got time to bleed.,Repeat,Reaper
+"You can't get it cheaper, call the reaper.",Repeat,Reaper
+"I'm bringing the pain, and the pizza in 30 minutes or it's free.",Repeat,Reaper
+I make dead people.,Repeat,Reaper
+I'm goin' commando.,Repeat,Reaper
+To Tarsonis and beyond!,Repeat,Reaper
+I thought I was signing up to be a repo man. Imagine my surprise.,Repeat,Reaper
+This is ground control to Major Tom.,Repeat,Reaper
+I like you. That's why I'm gonna kill you last.,Repeat,Reaper
+SCV ready.,Trained,SCV
+Huh?,Selected,SCV
+What's goin' on?,Selected,SCV
+Bad news?,Selected,SCV
+Aah! Ya scared me!,Selected,SCV
+Go ahead.,Selected,SCV
+"Big job, huh?",Selected,SCV
+In the rear with the gear.,Selected,SCV
+I'm too young to die!,Engaged In Battle,SCV
+Help!,Engaged In Battle,SCV
+Not what I had in mind!,Engaged In Battle,SCV
+You're the boss.,Moved,SCV
+Yep.,Moved,SCV
+Yeah whatever.,Moved,SCV
+It's your dime.,Moved,SCV
+Woo hoo! Overtime!,Moved,SCV
+Well butter my biscuit!,Moved,SCV
+Yeah.,Moved,SCV
+Yup.,Moved,SCV
+Yo.,Moved,SCV
+Gotcha.,Moved,SCV
+Uh-huh...,Moved,SCV
+Will do.,Moved,SCV
+We hear ya.,Moved,SCV
+Yes sir!,Moved,SCV
+Sure thing.,Moved,SCV
+Roger.,Moved,SCV
+I'm goin'!,Moved,SCV
+Move it!,Moved,SCV
+"Yeah, yeah.",Moved,SCV
+This is crazy!,Attack,SCV
+This is your plan!?,Attack,SCV
+"What, you run out of marines?",Attack,SCV
+Oh that's just great...,Attack,SCV
+"(buzzing fly, splat) Gotcha! (SCV computer's voice) Self-destruct in five...four...three... two... (pilot) Uh-oh...",Repeat,SCV
+"I can fix anything! (malfunctioning sounds) If this dang thing holds together... (hydraulic sounds) Hear me baby, hold together...",Repeat,SCV
+Say...ya got a reeeaaal pretty mouth...,Repeat,SCV
+"Oh, my cousin Lester saw a zergling, once...",Repeat,SCV
+"On the CB, they call me Big Drill! (drill sounds)",Repeat,SCV
+(flips through radio stations) Hey! I wanna hear some FREE ZERG!,Repeat,SCV
+"My cow died last night, so I don't need your bull.",Repeat,SCV
+Ready to roll out!,Trained,Siege Tank
+"Fueled up, ready to go!",Trained,Siege Tank
+What's that?,Trained,Siege Tank
+Speak up!,Trained,Siege Tank
+Go ahead.,Trained,Siege Tank
+Need something blown up?,Trained,Siege Tank
+What's our target?,Trained,Siege Tank
+Got no patience for sittin' around!,Trained,Siege Tank
+Laaay it on me!,Trained,Siege Tank
+Give us your best shot!,Trained,Siege Tank
+I'm in deep!,Engaged In Battle,Siege Tank
+Rock and roll!,Moved,Siege Tank
+Can do!,Moved,Siege Tank
+I'll give it my best shot!,Moved,Siege Tank
+Rollin' out!,Moved,Siege Tank
+Heavy metal.,Moved,Siege Tank
+On my way!,Moved,Siege Tank
+I never tread lightly...,Moved,Siege Tank
+"Oh, IT'S ON!",Moved,Siege Tank
+Ab-so-lutely!,Moved,Siege Tank
+Definitely.,Moved,Siege Tank
+Af-firmative!,Moved,Siege Tank
+Ride on!,Moved,Siege Tank
+It's all me!,Moved,Siege Tank
+Rollin'!,Moved,Siege Tank
+Yes sir!,Moved,Siege Tank
+Let's roll!,Moved,Siege Tank
+Move it!,Moved,Siege Tank
+This'll be a blast!,Attack,Siege Tank
+It's BOOM time!,Attack,Siege Tank
+Ready to drop the hammer!,Attack,Siege Tank
+Pound em' flat!,Attack,Siege Tank
+Good night now!,Attack,Siege Tank
+Got em' in my sights.,Attack,Siege Tank
+Collateral is my favorite kind of damage!,Attack,Siege Tank
+Music to my ears!,Attack,Siege Tank
+Let's get 'em!,Attack,Siege Tank
+Ranged in!,Attack,Siege Tank
+Why don't you walk about thirty yards out and stand still for me?,Repeat,Siege Tank
+I love the smell of burning wreckage in the morning!,Repeat,Siege Tank
+I don't have to shoot ya. I can just run you over!,Repeat,Siege Tank
+"Hehe, man, I just LOVE blowin' things up!",Repeat,Siege Tank
+"Let me hear your guns, boy. (distant cannon fire)",Repeat,Siege Tank
+"Why can't I quit you, siege tank?",Repeat,Siege Tank
+"And here it is, a long drive up the fairway, he takes the shot and... (fires cannon) WHOA! IT'S IN THE HOLE! IT'S IN THE HOLE!",Repeat,Siege Tank
+Nothing like getting tankedwith your buddies!,Repeat,Siege Tank
+It's WAY past time I dispensed some indiscriminate justice!,Repeat,Siege Tank
+"If the guns are churnin', your ass is burnin'! If the guns are blazin', your ass is... (gears grind) ...a raisin. I don't know, what do you want from me?",Repeat,Siege Tank
+Thor is here.,Trained,Thor
+Hit me!,Selected,Thor
+I hear you!,Selected,Thor
+"I am here, click me!",Selected,Thor
+Hear the thunder!,Selected,Thor
+I'm heavy metal!,Selected,Thor
+Got something for me?,Selected,Thor
+Get me back into the fight!,Selected,Thor
+I'm wasting away here!,Selected,Thor
+"Fix me up, will ya?",Selected,Thor
+Ja! Come and fight me! (Mad laugh),Engaged In Battle,Thor
+"Now, now, now!",Moved,Thor
+Stick around.,Moved,Thor
+"OK, baby.",Moved,Thor
+Let's go!,Moved,Thor
+Watch this.,Moved,Thor
+All over it.,Moved,Thor
+Can do.,Moved,Thor
+No problem.,Moved,Thor
+Right!,Moved,Thor
+Hammer of the gods!,Attack,Thor
+Eat hot lead!,Attack,Thor
+"Ohh, it's on!",Attack,Thor
+Dropping the hammer.,Attack,Thor
+Ride the lightning!,Attack,Thor
+It's over you idiots!,Attack,Thor
+Don't waste my time!,Repeat,Thor
+I am the destroyer!,Repeat,Thor
+"I could aim, but with this thing, I don't have to.",Repeat,Thor
+What happened to you commander? They got you pushing too many pencils?,Repeat,Thor
+I am a thunder god!,Repeat,Thor
+And I hurl thunderbolts!,Repeat,Thor
+Eawarghhhhh!,Repeat,Thor
+(Lowered voice) Quiet... I'm trying to (now yelling) sneak up on them!,Repeat,Thor
+"Thunder and lightning, this is crazy!",Repeat,Thor
+I am rated T for Thor.,Repeat,Thor
+"If someone asks me if I am really a god, I'll say yes!",Repeat,Thor
+"If someone asks me I ever killed any zerg, I'll say yes, but they were all bad!",Repeat,Thor
+"What is best: to crush the zerg, see them driven before you, and hear the lamentations of the protoss.",Repeat,Thor
+Ready to plunder.,Trained,Viking
+Transformation systems primed.,Selected,Viking
+Fight or flight? Yeah right.,Selected,Viking
+Let's get into the fight.,Selected,Viking
+Made for battle.,Selected,Viking
+You ready for war?,Selected,Viking
+Can't hold 'em alone!,Engaged In Battle,Viking
+No one lives forever.,Moved,Viking
+Victory.,Moved,Viking
+Bold...,Moved,Viking
+I like it.,Moved,Viking
+Very well.,Moved,Viking
+Haha!,Moved,Viking
+Agreed.,Moved,Viking
+Alright.,Moved,Viking
+Inbound.,Moved,Viking
+Certainly.,Moved,Viking
+Yes indeed.,Moved,Viking
+Burn and pillage!,Attack,Viking
+Weapons primed!,Attack,Viking
+Strike hard and fast!,Attack,Viking
+Fortune favors the bold!,Attack,Viking
+I love a good raid!,Attack,Viking
+There's the spirit!,Attack,Viking
+"Aggressive, I like it!",Attack,Viking
+Erik! Baleog! Olaf! Come in! (pause) Must've gotten lost again...,Repeat,Viking
+"Well, grease my gears.",Repeat,Viking
+Coordinates set. Norse by Norsewest.,Repeat,Viking
+I'm the best pilot in all the nine worlds! Oh yeah.,Repeat,Viking
+(hums Ride of the Valkyries),Repeat,Viking
+"Shock and Awe, baby.",Repeat,Viking
+"Raiding and pillaging builds character, really!",Repeat,Viking
+"Blood and glory! Man, I must be losing it...",Repeat,Viking
+"By air or by land, all shall fall by my hand! (pause) Wait, d-did I say that out loud?",Repeat,Viking
+"(adjutant voice) Welcome to Viking. If you want rockets, press four. If you want weapons, press five. If you know the enemy you want to kill, press seven.",Repeat,Viking
+Fly the unfriendly skies.,Repeat,Viking
